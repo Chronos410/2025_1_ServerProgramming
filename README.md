@@ -487,3 +487,92 @@
     #### HEX로 읽기
     SocketTest는 아스키값으로만 출력되지만,<br/>
     SerialPortMon은 Hex값으로 읽을 수 있다.<br/>
+
+    
+### 9주차 학습 내용: <br/>
+
+개쳐망했어 개쳐자버렸어
+
+1. Multi-cast<br/>
+
+    #### IPv4
+    Class D의 아이피 224~239는 멀티캐스트를 위해서 쓰인다.<br/>
+    224.0~~~이렇게 나오면 대충 멀티캐스트겠구나~ 하면 됨.<br/>
+
+    이더넷 레벨에서도 나타나는데 ARP를 쳐보면 MAC주소가 01-00-5e 로 시작하면 멀티캐스트라 보면 된다.<br/>
+    뒤에 오는건 224.x.x.x의 x.x.x와 동일한걸 가리킨다.(대신 16진수로 MAC 이니까)<br/>
+
+
+2. HTTP<br/>
+    
+    #### 프로토콜
+    7계층 프로토콜로, 보통 80번 포트로 연결한다.<br/>
+    클라이언트의 요청으로 서버에 연결하고, 응답을 받으면 그 즉시 연결을 끊어버린다.<br/>
+    Connectless 하네요~ 
+
+    #### HTTP 메소드
+    GET : 데이터를 읽거나 검색하기위해 쓰는 메소드.
+
+    POST : 데이터를 입력하기위해 쓰는 메소드.
+
+    #### HTTP Response status codes
+    HTTP 프로토콜로 연결했을때 응답하는 코드
+
+        100~199 정보
+        200~299 성공
+        300~399 리다이렉션
+        400~499 클라이언트 에러
+        500~600 서버 에러
+    
+
+3. 웹크롤링<br/>
+
+4. Powershell
+
+    PowerShell은 cmd를 포함하는 더 큰 Shell프로그램임.<br/>
+    Hardware <-> OS <-> Application 이런 구조라고 알고 있음. <br/>
+    Shall은 OS와 Application(Process)사이에 들어가 있는 OS 의 껍질이라고 보면 됨.<br/>
+
+    컴파일 언어 C<br/>
+    인터프리터 언어 Python<br/>
+    스크립트 언어 PowerShell<br/>
+    
+    전부 네트워크 프로그래밍이 가능함.<br/>
+    대신 속도가 올라갈 수록 메모리 효율이 떨어지고 암튼 그럼...서로 다름.<br/>
+
+    #### 명령어
+    Start-Process<br/>
+    arp <br/>
+    ping<br/>
+    ipconfig<br/>
+    netstat<br/>
+    route print<br/>
+    Get-NetAdapter<br/>
+    Get-NetNeighbor<br/>
+    Get-NetIPInterface<br/>
+    Get-NetIPConfiguration<br/>
+
+    ipconfig와 차이점<br/>
+    Get-NetIPConfiguration은 오브젝트를 반환하고, ipconfig는 String을 반환함.
+
+    그래서 ipconfig는 문자열을 필터링이나 뭘 하려면 ' ipconfig | findstr "~" '이런 식으로 파이프를 사용해서 다음 명령어에게 문자열을 넘겨주는 방식임.<br/>
+    Get-어쩌구는 데이터를 그대로 가져오는거라 더 다양한 접근이 가능함. 스트링을 자르고 뭐 이럴 필요가 없고, 그냥 오브젝트째로 넘겨줄 수 있음.<br/>
+
+    Get-NetTCPConnection<br/>
+    Get-NetUDPEndpoint<br/>
+
+    Resolve-DnsName : nslookup의 진화판 같은 느낌<br/>
+    Get-NetRoute : route print의 진화판이지 뭐<br/>
+    
+    netsh : 네트워크용 쉘을 쓰겠다~ 이런 느낌<br/>
+
+    netsh int ip add nei "이름" xxx.xxx.xxx.xxx xx-xx-xx-xx-xx-xx<br/>
+    레지스트리에 이 이름, IP, MAC을 저장시켜놓겠다.<br/>
+    즉, ARP 캐시리스트에 정적으로 저장되게 된다.<br/>
+    되돌리고 싶을 땐 arp -d 맥이고 MAC를 비운채로 다시 치면 동적으로 돌아간다.<br/>
+
+    #### 인터페이스 인덱스
+    NIC - 물리적 구성<br/>
+    Interface - 논리적 구성<br/>
+
+
