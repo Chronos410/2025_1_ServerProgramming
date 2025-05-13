@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YUHAN\\Desktop\\TCPClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC68512C-C6F2-42C8-BF7D-A69B832D4C09}|TCPClient.vcxproj|C:\\Users\\YUHAN\\Desktop\\TCPClient\\TCPClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC68512C-C6F2-42C8-BF7D-A69B832D4C09}|TCPClient.vcxproj|solutionrelative:TCPClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC68512C-C6F2-42C8-BF7D-A69B832D4C09}|TCPClient.vcxproj|C:\\USERS\\YUHAN\\DESKTOP\\TCPCLIENT\\COMMON.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC68512C-C6F2-42C8-BF7D-A69B832D4C09}|TCPClient.vcxproj|solutionrelative:COMMON.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Common.h",
+              "DocumentMoniker": "C:\\Users\\YUHAN\\Desktop\\TCPClient\\Common.h",
+              "RelativeDocumentMoniker": "Common.h",
+              "ToolTip": "C:\\Users\\YUHAN\\Desktop\\TCPClient\\Common.h",
+              "RelativeToolTip": "Common.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T05:43:27.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCPClient.cpp",
+              "DocumentMoniker": "C:\\Users\\YUHAN\\Desktop\\TCPClient\\TCPClient.cpp",
+              "RelativeDocumentMoniker": "TCPClient.cpp",
+              "ToolTip": "C:\\Users\\YUHAN\\Desktop\\TCPClient\\TCPClient.cpp",
+              "RelativeToolTip": "TCPClient.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T05:36:00.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

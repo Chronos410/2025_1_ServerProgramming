@@ -576,3 +576,40 @@
     Interface - 논리적 구성<br/>
 
 
+### 10주차 학습 내용: <br/>
+
+    *휴 강*
+
+### 11주차 학습 내용: <br/>
+
+1. RDP<br/>
+    
+    Remote Desktop Protocol<br/>
+    원격 데스크탑에 사용되는 프로토콜.<br/>
+    원격 데스크탑은 윈도우 기본 기능으로 들어가있음.<br/>
+    서버는 home에는 없고 pro에 있음<br/>
+
+2. TightVNC<br/>
+
+    호스트에 접속해서 호스트가 보여주는 화면을 그대로 송출함.<br/>
+
+3. 소켓 통신<br/>
+
+    운영체제를 가리지않아요<br/>
+
+    #### 소켓 통신 절차
+
+    <img src="images/10_SOCKET_PROGRAMMING.png"> <br/>
+    
+4. winsock 실습
+
+    #### Big Endian & Little Endian
+    CPU 아키텍쳐의 종류, 네트워크로 보낼때는 반드시 Big Endian으로 변형해서 보낸다.<br/>
+    받을때는 각자 CPU에 맞게 읽으면 되니까.<br/>
+
+    hton() 로 네트워크로 내보내는 데이터를 변형하고,
+    ntoh() 로 네트워크에서 호스트로 들어오는 데이터를 변형함.
+
+5. 11주차 실습: CPP, Python으로 TCP 클라이언트 만들기
+
+
