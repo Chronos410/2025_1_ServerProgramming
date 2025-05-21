@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TEMP_CYS\\12th\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F398F6F-9931-4C85-895C-B62E0E13CC58}|TCP_SERVER\\TCP_SERVER.csproj|d:\\temp_cys\\12th\\tcp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F398F6F-9931-4C85-895C-B62E0E13CC58}|TCP_SERVER\\TCP_SERVER.csproj|solutionrelative:tcp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0988CA-62F2-49FB-9DE0-DFE41F07C8E4}|TCP_CLIENT\\TCP_CLIENT.csproj|d:\\temp_cys\\12th\\tcp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0988CA-62F2-49FB-9DE0-DFE41F07C8E4}|TCP_CLIENT\\TCP_CLIENT.csproj|solutionrelative:tcp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AD6A4C-9520-4658-A8A7-417EB8C4EECC}|12th\\12th.csproj|d:\\temp_cys\\12th\\12th\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AD6A4C-9520-4658-A8A7-417EB8C4EECC}|12th\\12th.csproj|solutionrelative:12th\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TEMP_CYS\\12th\\TCP_CLIENT\\Program.cs",
+              "RelativeDocumentMoniker": "TCP_CLIENT\\Program.cs",
+              "ToolTip": "D:\\TEMP_CYS\\12th\\TCP_CLIENT\\Program.cs",
+              "RelativeToolTip": "TCP_CLIENT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:16:28.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TEMP_CYS\\12th\\TCP_SERVER\\Program.cs",
+              "RelativeDocumentMoniker": "TCP_SERVER\\Program.cs",
+              "ToolTip": "D:\\TEMP_CYS\\12th\\TCP_SERVER\\Program.cs",
+              "RelativeToolTip": "TCP_SERVER\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwBoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:16:15.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TEMP_CYS\\12th\\12th\\Program.cs",
+              "RelativeDocumentMoniker": "12th\\Program.cs",
+              "ToolTip": "D:\\TEMP_CYS\\12th\\12th\\Program.cs",
+              "RelativeToolTip": "12th\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:22:37.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

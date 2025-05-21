@@ -1,0 +1,14 @@
+D:\TEMP_CYS\12th\12th\obj\Debug\net8.0\12th.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEMP_CYS\12th\12th\obj\Debug\net8.0\12th.AssemblyInfoInputs.cache
+D:\TEMP_CYS\12th\12th\obj\Debug\net8.0\12th.AssemblyInfo.cs
+D:\TEMP_CYS\12th\12th\obj\Debug\net8.0\12th.csproj.CoreCompileInputs.cache
+D:\TEMP_CYS\12th\12th\bin\Debug\net8.0\12th.exe
+D:\TEMP_CYS\12th\12th\bin\Debug\net8.0\12th.deps.json
+D:\TEMP_CYS\12th\12th\bin\Debug\net8.0\12th.runtimeconfig.json
+D:\TEMP_CYS\12th\12th\bin\Debug\net8.0\12th.dll
+D:\TEMP_CYS\12th\12th\bin\Debug\net8.0\12th.pdb
+D:\TEMP_CYS\12th\12th\obj\Debug\net8.0\12th.dll
+D:\TEMP_CYS\12th\12th\obj\Debug\net8.0\refint\12th.dll
+D:\TEMP_CYS\12th\12th\obj\Debug\net8.0\12th.pdb
+D:\TEMP_CYS\12th\12th\obj\Debug\net8.0\12th.genruntimeconfig.cache
+D:\TEMP_CYS\12th\12th\obj\Debug\net8.0\ref\12th.dll
